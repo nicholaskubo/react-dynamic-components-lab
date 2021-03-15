@@ -19,4 +19,6 @@ export default class ColorBox extends Component {
       return null
     }
   }
+
 }
+
